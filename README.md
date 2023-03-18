@@ -1,4 +1,4 @@
 # dscapstone
-Repository of 
+Repository of Roman Siepelmeyer.
 
-Hello world, this is a test file to learn commits through GitHub.
+Contains files relating to the final project of the IBM Data Science Professional Certificate.
